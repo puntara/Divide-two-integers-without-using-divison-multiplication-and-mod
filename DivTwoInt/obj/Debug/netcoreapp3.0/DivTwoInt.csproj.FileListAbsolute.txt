@@ -1,0 +1,11 @@
+D:\DivTwoInt\DivTwoInt\bin\Debug\netcoreapp3.0\DivTwoInt.exe
+D:\DivTwoInt\DivTwoInt\bin\Debug\netcoreapp3.0\DivTwoInt.deps.json
+D:\DivTwoInt\DivTwoInt\bin\Debug\netcoreapp3.0\DivTwoInt.runtimeconfig.json
+D:\DivTwoInt\DivTwoInt\bin\Debug\netcoreapp3.0\DivTwoInt.runtimeconfig.dev.json
+D:\DivTwoInt\DivTwoInt\bin\Debug\netcoreapp3.0\DivTwoInt.dll
+D:\DivTwoInt\DivTwoInt\bin\Debug\netcoreapp3.0\DivTwoInt.pdb
+D:\DivTwoInt\DivTwoInt\obj\Debug\netcoreapp3.0\DivTwoInt.csprojAssemblyReference.cache
+D:\DivTwoInt\DivTwoInt\obj\Debug\netcoreapp3.0\DivTwoInt.AssemblyInfoInputs.cache
+D:\DivTwoInt\DivTwoInt\obj\Debug\netcoreapp3.0\DivTwoInt.AssemblyInfo.cs
+D:\DivTwoInt\DivTwoInt\obj\Debug\netcoreapp3.0\DivTwoInt.dll
+D:\DivTwoInt\DivTwoInt\obj\Debug\netcoreapp3.0\DivTwoInt.pdb
